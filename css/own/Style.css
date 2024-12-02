@@ -52,3 +52,16 @@ nav a:hover {
 .sakk {
     margin: auto;
 }
+.image_zwei {
+    width: 75%;
+    margin: auto;
+}
+footer div {
+    background-color: rgba(197, 197, 197, 0.3);
+    height: 75px;
+    width: 100%;
+    margin: auto;
+}
+.inhalt_one h3 {
+    text-align: left;
+}
