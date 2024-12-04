@@ -1,7 +1,6 @@
 body {
     width: 85%;
     margin: auto;
-    background-color: rgba(0, 255, 255, 0.6);
 }
 header h1 {
     text-align: center;
@@ -15,7 +14,7 @@ header h1 {
 }
 .img_one {
     position: relative;
-    background-image: url(/image/Header.png);
+    background-image: url(/Weboldal/image/Header.png);
 }
 nav {
     position: absolute;
