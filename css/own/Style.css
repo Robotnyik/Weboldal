@@ -51,6 +51,9 @@ nav a:hover {
 .sakk {
     margin: auto;
 }
+.inhalt_one h3 {
+    text-align: left;
+}
 .image_zwei {
     width: 75%;
     margin: auto;
@@ -60,7 +63,4 @@ footer div {
     height: 75px;
     width: 100%;
     margin: auto;
-}
-.inhalt_one h3 {
-    text-align: left;
 }
