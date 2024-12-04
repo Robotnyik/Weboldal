@@ -8,3 +8,12 @@
 body {
     background-color: rgba(0, 255, 255, 0.6);
 }
+nav a {
+    color: black;
+}
+nav a:hover {
+    background-color: whitesmoke;
+}
+footer div {
+    background-color: rgba(197, 197, 197, 0.3);
+}
